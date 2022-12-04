@@ -1,0 +1,650 @@
+{
+  "productList": [
+	  {
+		  "productName": "SOMAT Соль для ПММ 1,5кг(Хенкель):7",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 350,
+				  "height": 213,
+				  "width": 139
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "OLD SPICE Гель для душа + Шампунь Tigerclaw 400мл:6",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 150,
+				  "height": 213,
+				  "width": 141
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "Крот Средство для прочистки труб жидк 580г пл/(ДомБытХим):24",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 393,
+				  "height": 230,
+				  "width": 270
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "ДОБРЫЙ Палпи напиток с/с апельсин 0,45л ПЭТ(Мултон):12",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 189,
+				  "height": 207,
+				  "width": 255
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "PERSIL ст/п Авт Свежесть Вернель 3кг(Хенкель):4",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 400,
+				  "height": 300,
+				  "width": 200
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "WRIGLEYS DOUBLEMINT Ж/р Мята/Ментол 13,6г:30/600",
+		  "productDimentions": [
+			  {
+				  "type": "бло",
+				  "quantity": 1,
+				  "length": 123,
+				  "height": 35,
+				  "width": 145
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "ВИСКАС корм сух д/к стерил курица с подушечками350г(Марс):9",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 392,
+				  "height": 258,
+				  "width": 169
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "PERSIL Duo-caps Капсулы для стирки color 360 10 шт(Henkel):8",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 392,
+				  "height": 210,
+				  "width": 195
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "FAIRY Ср-во для мыт/пос Жасм/Алоэ 900мл пл/флак(Проктер) :12",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 385,
+				  "height": 285,
+				  "width": 232
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "BIMAX Стир порошок Ароматерапия автомат 1,8кг(Нэфис):5",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 400,
+				  "height": 150,
+				  "width": 400
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "ФрутоНяня пюре Витаминный салатик 90г гуал/п(Прогресс):12",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 427,
+				  "height": 166,
+				  "width": 85
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "БРЕФ Синяя Вода Туал.блок 50г(Хенкель):10",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 412,
+				  "height": 160,
+				  "width": 140
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "Фольга особопрочная 29смх7м 14мкм(РУСАЛ-Саянская фольга):35",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 290,
+				  "height": 190,
+				  "width": 320
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "ПУРИНА ВАН сухой корм для кошек Индейка 1,5кг (Нестле):6",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 395,
+				  "height": 296,
+				  "width": 298
+			  },
+			  {
+				  "type": "шт",
+				  "quantity": 1,
+				  "length": 100,
+				  "height": 290,
+				  "width": 200
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "CURTIS Чай чер Elegant Earl Grey берг/цитрус 25саше42,5г:12",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 436,
+				  "height": 177,
+				  "width": 160
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "ТАЙД Стир порош Авт Альп свеж 2,5кг(Проктер энд Гэмбл):6",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 303,
+				  "height": 150,
+				  "width": 417
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "PURINA ONE Корм д/котят влаж кур/морк 75г пауч(Нестле):26",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 395,
+				  "height": 142,
+				  "width": 100
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "GLADE Аэроз осв воз Лазур волна и магнолия 300мл(SC John):12",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 215,
+				  "height": 230,
+				  "width": 160
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "CESAR Корм д/собак Говяд с овощами 85г(Марс):28",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 385,
+				  "height": 145,
+				  "width": 100
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "ELSEVE Бальзам д/волос Гиалурон Наполнитель 400мл:6",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 160,
+				  "height": 230,
+				  "width": 140
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "Тик Так Драже микс мята/апельсин 16г пл/у(Ферреро):12/288",
+		  "productDimentions": [
+			  {
+				  "type": "бло",
+				  "quantity": 1,
+				  "length": 125,
+				  "height": 48,
+				  "width": 80
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "FELIX Мясные Ломтики Корм д/взр кошек с уткой 75г пауч:26",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 395,
+				  "height": 142,
+				  "width": 100
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "FELIX Аппетитные Кусоч д/кош форель 75г(Нестле):26",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 395,
+				  "height": 142,
+				  "width": 100
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "AIRWICK См бал Нежн ШелкЛилии/РайскЦветы/ДикГранат250мл:6",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 157,
+				  "height": 138,
+				  "width": 204
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "FELIX Двойная вкуснятина Корм д/котят кур сух 600г(Нестле):8",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 400,
+				  "height": 217,
+				  "width": 300
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "PURINA ONE Корм д/взр кош сух курица/цел злаки750г(Нестле):8",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 400,
+				  "height": 210,
+				  "width": 280
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "FELIX Sensanions Корм д/кошек гов/ сыр в желе 75г(Нестле):26",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 106,
+				  "height": 145,
+				  "width": 395
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "ГРИНФИЛД чай черн Рич Цейлон 20пирх2г(НЕП):8",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 305,
+				  "height": 200,
+				  "width": 200
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "ПОМИДОРКА Томат паста ж/б 140г (Десан):15",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 275,
+				  "height": 85,
+				  "width": 170
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "FELIX Аппетитные Кусоч д/кош ягненок 75г(Нестле):26",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 395,
+				  "height": 142,
+				  "width": 100
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "GRASS Milana Жидкое крем-мыло Жемчужное 1л(ТД ГраСС):6",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 184,
+				  "height": 250,
+				  "width": 265
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "FELIX Мясные Ломтики Корм д/взр кошек с говяд 75г пауч:26",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 395,
+				  "height": 142,
+				  "width": 100
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "ФИНИШ Все-в-Одном Таб д/ПММ 50 шт(Рекитт Бенкизер):5",
+		  "productDimentions": [
+			  {
+				  "type": "шт",
+				  "quantity": 1,
+				  "length": 70,
+				  "height": 242,
+				  "width": 230
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "РИГЛИ Ж/р Файв Электро 31г (ООО Ригли) :10/180",
+		  "productDimentions": [
+			  {
+				  "type": "бло",
+				  "quantity": 1,
+				  "length": 130,
+				  "height": 55,
+				  "width": 80
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "Лавровый лист сухой 10г сашет(ТД-Холдинг):32",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 290,
+				  "height": 185,
+				  "width": 170
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "СиСиКэт Наполнитель комкующ д/кош Традиционн 8,5л (Лидинг):4",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 195,
+				  "height": 235,
+				  "width": 390
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "WHISKAS Корм д/кошек влажн рагу треска/лосось 75г(Марс):28",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 385,
+				  "height": 145,
+				  "width": 100
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "PERFECT FIT Корм для взрослых кошек Говядина в соусе 75г:28",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 385,
+				  "height": 143,
+				  "width": 98
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "МАМБА Фрумеладки Фрукты и Йогурт Жеват мармел 72г(StorcK):24",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 400,
+				  "height": 125,
+				  "width": 200
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "WHISKAS Корм д/кошек влажн рагу индейа/кролик 75г(Марс):28",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 385,
+				  "height": 145,
+				  "width": 100
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "КАСПЕР Подгузники-трус Junior д/дет 11-25кг 66шт (Хайджин):4",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 430,
+				  "height": 390,
+				  "width": 600
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "Royal Wellfort Полотенце махр 30X50 беж J(СИ):4/160",
+		  "productDimentions": [
+			  {
+				  "type": "бло",
+				  "quantity": 1,
+				  "length": 240,
+				  "height": 190,
+				  "width": 130
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "БАРХАТНЫЕ РУЧКИ крем д/рук Питательный 80мл (Юнилевер) :15",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 235,
+				  "height": 165,
+				  "width": 132
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "ЭКЛИПС Ж/р Лесные Ягоды подушечки 14г(Ригли):30/600",
+		  "productDimentions": [
+			  {
+				  "type": "бло",
+				  "quantity": 1,
+				  "length": 123,
+				  "height": 39,
+				  "width": 145
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "FELIX Аппетитные Кусоч д/кош лосось 75г(Нестле):26",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 395,
+				  "height": 142,
+				  "width": 100
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "NUTRILON 2 Premium Смесь мол сухая 600г к/кор(Нутриция):5",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 522,
+				  "height": 197,
+				  "width": 139
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "FELIX Sensanions Корм д/кош инд/ ягоды в желе 75г(Нестле):26",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 395,
+				  "height": 142,
+				  "width": 100
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "GLADE Аэр осв воз Восточ прян и дерево Уд 300мл(SC John):12",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 215,
+				  "height": 230,
+				  "width": 160
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "Набор шаров в асс №1 ВЕСЕЛАЯ ЗАТЕЯ СЛ:10/40",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 485,
+				  "height": 210,
+				  "width": 240
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "РОЛЛТОН Макароные издел Спагетти в/с 400г п/уп (МАРЕВЕН):26",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 353,
+				  "height": 296,
+				  "width": 132
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "SHEBA Корм д/взр кошек в соусе форель и креветка 75г:28",
+		  "productDimentions": [
+			  {
+				  "type": "кор",
+				  "quantity": 1,
+				  "length": 385,
+				  "height": 145,
+				  "width": 100
+			  }
+		  ]
+	  },
+	  {
+		  "productName": "ДИРОЛ Ж/Р Арбузная свежесть 13,6 г(Крафт Фудс Рус):30/720",
+		  "productDimentions": [
+			  {
+				  "type": "бло",
+				  "quantity": 1,
+				  "length": 108,
+				  "height": 40,
+				  "width": 144
+			  }
+		  ]
+	  },
+	  {
+      "productName": "GLADE Aut Освеж возд см/бал Нежн кашем/Санд 269мл(Джонсон):6",
+      "productDimentions": [
+        {
+          "type": "кор",
+          "quantity": 1,
+          "length": 207,
+          "height": 153,
+          "width": 142
+        }
+      ]
+    }
+  ],
+  "tara_length": 800,
+  "tara_height": 1477,
+  "tara_width": 550
+}

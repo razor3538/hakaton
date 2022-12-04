@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Петрушка",
+    "scale_x": 0.1,
+    "scale_y": 0.2,
+    "scale_z": 0.3,
+    "position_x": 0.2,
+    "position_y": 0.2,
+    "position_z": 0.0
+  },{
+    "name": "Петрушка",
+    "scale_x": 0.1,
+    "scale_y": 0.2,
+    "scale_z": 0.3,
+    "position_x": 0.2,
+    "position_y": 0.2,
+    "position_z": 0.1
+  },{
+    "name": "Петрушка",
+    "scale_x": 0.1,
+    "scale_y": 0.2,
+    "scale_z": 0.3,
+    "position_x": 0.2,
+    "position_y": 0.2,
+    "position_z": 0.2
+  },{
+    "name": "Петрушка",
+    "scale_x": 0.1,
+    "scale_y": 0.2,
+    "scale_z": 0.3,
+    "position_x": 0.2,
+    "position_y": 0.2,
+    "position_z": 0.3
+  },{
+    "name": "Петрушка",
+    "scale_x": 0.1,
+    "scale_y": 0.2,
+    "scale_z": 0.3,
+    "position_x": 0.2,
+    "position_y": 0.2,
+    "position_z": 0.4
+  },{
+    "name": "Петрушка",
+    "scale_x": 0.1,
+    "scale_y": 0.2,
+    "scale_z": 0.3,
+    "position_x": 0.2,
+    "position_y": 0.2,
+    "position_z": 0.5
+  },{
+    "name": "Петрушка",
+    "scale_x": 0.1,
+    "scale_y": 0.2,
+    "scale_z": 0.3,
+    "position_x": 0.2,
+    "position_y": 0.2,
+    "position_z": 0.6
+  },{
+    "name": "Петрушка",
+    "scale_x": 0.1,
+    "scale_y": 0.2,
+    "scale_z": 0.3,
+    "position_x": 0.2,
+    "position_y": 0.2,
+    "position_z": 0.7
+  },{
+    "name": "Петрушка",
+    "scale_x": 0.1,
+    "scale_y": 0.2,
+    "scale_z": 0.3,
+    "position_x": 0.2,
+    "position_y": 0.2,
+    "position_z": 0.8
+  },{
+    "name": "Петрушка",
+    "scale_x": 0.1,
+    "scale_y": 0.2,
+    "scale_z": 0.3,
+    "position_x": 0.2,
+    "position_y": 0.2,
+    "position_z": 0.9
+  },{
+    "name": "Петрушка",
+    "scale_x": 0.1,
+    "scale_y": 0.2,
+    "scale_z": 0.3,
+    "position_x": 0.2,
+    "position_y": 0.2,
+    "position_z": 1.0
+  }
+]
