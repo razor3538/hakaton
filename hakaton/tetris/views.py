@@ -5,6 +5,7 @@ from django.http import JsonResponse
 from django.views import View
 from django.utils.decorators import method_decorator
 from django.views.decorators.csrf import csrf_exempt
+from numpy import double
 from py3dbp import Packer, Bin, Item
 
 from .models import Palete
@@ -62,7 +63,7 @@ class TetrisView(View):
         packer.add_bin(Bin('palete', palete.y, palete.x, palete.z, 999999))
 
         for i in all_type_mass:
-            packer.add_item(Item(i["name"], i["width"], i["length"], i["height"], 0.1))
+            packer.add_item(Item(i["name"], i["width"], i["height"], i["length"], 0.1))
 
         packer.pack(True, False, 0)
 
@@ -90,12 +91,12 @@ def to_json_response(to_json_data):
     for item in to_json_data:
         tmp = {
             "name": str(item.name),
-            "scale_x": math.ceil(item.width / 10) + 0.0,
-            "scale_y": math.ceil(item.height / 10) + 0.0,
-            "scale_z": math.ceil(item.depth / 10) + 0.0,
-            "position_x": item.position[1] + 0.0,
-            "position_y": item.position[0] + 0.0,
-            "position_z": item.position[2] + 0.0
+            "scale_x": double(item.height / 10000) + 0.1,
+            "scale_y": double(item.width / 10000) + 0.1,
+            "scale_z": double(item.depth / 10000) + 0.1,
+            "position_x": item.position[0] / 1300 + 0.00,
+            "position_y": item.position[1] / 1600 + 0.00,
+            "position_z": item.position[2] / 1300 + 0.00
         }
         json_mass.append(tmp)
     return json_mass
